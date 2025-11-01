@@ -45,7 +45,7 @@ Os testes garantem o funcionamento correto das principais funções:
 ## 📂 Estrutura do Projeto
 
 ```markdown
-📦 jogo-da-memoria  
+📦 src  
  ┣ 📂 js/  
  ┃ ┣ game.js        # Lógica principal do jogo  
  ┃ ┗ dom.js         # Manipulação dos elementos da tela  
