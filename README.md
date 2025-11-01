@@ -66,3 +66,4 @@ Os testes garantem o funcionamento correto das principais funções:
    ```bash
    npm install
    npm test
+   Abrir o arquivo index.html
