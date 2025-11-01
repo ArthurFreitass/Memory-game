@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Project memory-game in tests",
+  "homepage": "https://github.com/ArthurFreitass/Memory-game#readme",
+  "bugs": {
+    "url": "https://github.com/ArthurFreitass/Memory-game/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurFreitass/Memory-game.git"
+  },
+  "license": "ISC",
+  "author": "Arthur Freitas",
+  "type": "commonjs",
+  "main": "game.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
